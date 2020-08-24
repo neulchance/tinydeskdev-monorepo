@@ -1,0 +1,111 @@
+{
+  "files.associations": {
+    "*.json": "jsonc"
+  },
+  /* https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight */
+  "todohighlight.keywords": [
+    "DEFAULT WORKS LIKE THIS",
+    {
+      "text": "DESIRE",
+      "isWholeLine": false,
+      "color": "#5DB1D1",
+      "backgroundColor": "#132C44",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "DEV:",
+      "isWholeLine": false,
+      "color": "#5DB1D1",
+      "backgroundColor": "#132C44",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "[DEV-REDUNDANCY]",
+      "isWholeLine": false,
+      "color": "#5DB1D1",
+      "backgroundColor": "#132C44",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "REVIEW",
+      "isWholeLine": false,
+      "color": "#5DB1D1",
+      "backgroundColor": "#132C44",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "DEBUG",
+      "isWholeLine": false,
+      "color": "#5DB1D1",
+      "backgroundColor": "#132C44",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "NOTE",
+      "isWholeLine": false,
+      "color": "#5DB1D1",
+      "backgroundColor": "#132C44",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "HACK",
+      "color": "#5DB1D1",
+      "backgroundColor": "#132C44",
+      "borderRadius": "2px",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "-DEV-",
+      "color": "#417f96",
+      "border": "1px solid #417f96",
+      "backgroundColor": "#222629",
+      "borderRadius": "2px",
+    },
+    // disables this because to use with todo-tree-extension.
+    // {
+    //   "text": "TODO",
+    //   "color": "#5DB1D1",
+    //   "backgroundColor": "#132C44",
+    //   "borderRadius": "2px",
+    // },
+    {
+      "text": "CONSOLE LOG",
+      "isWholeLine": false,
+      "color": "#5DB1D1",
+      "backgroundColor": "#132C44",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "CSS TODO",
+      "isWholeLine": false,
+      "color": "#5DB1D1",
+      "backgroundColor": "#132C44",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "-ASK CSS-",
+      "color": "#5DB1D1",
+      "border": "1px solid #5DB1D1",
+      "backgroundColor": "#132C44",
+      "borderRadius": "2px",
+    },
+    {
+      "text": "-FUTURE-",
+      "color": "#5DB1D1",
+      "border": "1px solid #5DB1D1",
+      //NOTE using borderRadius along with `border` or you will see nothing change
+      "backgroundColor": "#132C44",
+      "borderRadius": "2px",
+      //other styling properties goes here ... 
+    },
+    {
+      "text": "-TODO-",
+      "color": "#5DB1D1",
+      "border": "1px solid #5DB1D1",
+      //NOTE using borderRadius along with `border` or you will see nothing change
+      "backgroundColor": "#132C44",
+      "borderRadius": "2px",
+      //other styling properties goes here ... 
+    }
+  ],
+}
