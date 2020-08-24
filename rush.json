@@ -425,12 +425,12 @@
     //   // "versionPolicyName": ""
     // },
     // 
-    // {
-    //   "packageName": "my-controls",
-    //   "projectFolder": "libraries/my-controls",
-    //   "reviewCategory": "production"
-    // },
-    // 
+    {
+      "packageName": "my-controls",
+      "projectFolder": "libraries/my-controls",
+      "reviewCategory": "production"
+    },
+    
     {
       "packageName": "my-toolchain",
       "projectFolder": "tools/my-toolchain",
